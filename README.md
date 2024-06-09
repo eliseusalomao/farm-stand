@@ -14,7 +14,7 @@ To learn how EJS work and reinforce knowledge about mongodb and mongoose.
 
 # How to run this project
 
-1. You need to have a mongodb database
+1. You need to have a mongodb database</br>
     1.1. If you have [Docker](https://www.docker.com/) then just run `docker compose up -d`
 2. Run: `npm run dev`
 
